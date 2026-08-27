@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">From private evidence to a careful conclusion and reflection</title>
+  <desc id="desc">Two evidence pathways show a private diary moving through clues, influence codes, a qualified pattern and a limitation, and selected course evidence moving through source context, reasoning, a qualified claim and reflection. A central rule says never claim more than the evidence supports.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3f9f8"/><stop offset="1" stop-color="#fff7ec"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#243d3d" flood-opacity=".13"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#397970"/></marker>
+    <style>.title{font:700 44px Arial,sans-serif;fill:#173b40}.sub{font:400 21px Arial,sans-serif;fill:#52696d}.lane{font:700 24px Arial,sans-serif;fill:#fff}.card{fill:#fff;stroke-width:3}.h{font:700 20px Arial,sans-serif;fill:#183b40}.body{font:400 17px Arial,sans-serif;fill:#445e62}.num{font:700 18px Arial,sans-serif;fill:#fff}.line{stroke:#397970;stroke-width:4;fill:none;marker-end:url(#arrow)}.rule{font:700 22px Arial,sans-serif;fill:#7c4a13}</style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="80" y="78" class="title">From evidence to a careful conclusion and reflection</text>
+  <text x="82" y="116" class="sub">Protect privacy, show your reasoning and keep every conclusion within the limits of the available evidence.</text>
+
+  <rect x="70" y="166" width="1460" height="68" rx="28" fill="#285f6b"/><text x="110" y="210" class="lane">LANE A — ANALYSE A PRIVATE FOOD DIARY WITHOUT JUDGEMENT</text>
+  <g filter="url(#shadow)"><rect class="card" x="70" y="275" width="255" height="155" rx="22" stroke="#79aaa5"/><circle cx="110" cy="316" r="22" fill="#397970"/><text x="110" y="323" text-anchor="middle" class="num">1</text><text x="145" y="323" class="h">Private diary</text><text x="105" y="361" class="body">De-identify; use only the</text><text x="105" y="388" class="body">teacher-supplied or fictional</text><text x="105" y="415" class="body">recording period.</text></g>
+  <path class="line" d="M325 352H355"/>
+  <g filter="url(#shadow)"><rect class="card" x="365" y="275" width="255" height="155" rx="22" stroke="#79aaa5"/><circle cx="405" cy="316" r="22" fill="#397970"/><text x="405" y="323" text-anchor="middle" class="num">2</text><text x="440" y="323" class="h">Evidence clues</text><text x="400" y="361" class="body">Describe what is actually</text><text x="400" y="388" class="body">recorded before suggesting</text><text x="400" y="415" class="body">possible explanations.</text></g>
+  <path class="line" d="M620 352H650"/>
+  <g filter="url(#shadow)"><rect class="card" x="660" y="275" width="255" height="155" rx="22" stroke="#79aaa5"/><circle cx="700" cy="316" r="22" fill="#397970"/><text x="700" y="323" text-anchor="middle" class="num">3</text><text x="735" y="323" class="h">Influence codes</text><text x="695" y="361" class="body">Physiological, psychological,</text><text x="695" y="388" class="body">social and economic clues</text><text x="695" y="415" class="body">may overlap.</text></g>
+  <path class="line" d="M915 352H945"/>
+  <g filter="url(#shadow)"><rect class="card" x="955" y="275" width="255" height="155" rx="22" stroke="#79aaa5"/><circle cx="995" cy="316" r="22" fill="#397970"/><text x="995" y="323" text-anchor="middle" class="num">4</text><text x="1030" y="323" class="h">Qualified pattern</text><text x="990" y="361" class="body">Use “may indicate” or</text><text x="990" y="388" class="body">“within this recorded period”</text><text x="990" y="415" class="body">when confidence is limited.</text></g>
+  <path class="line" d="M1210 352H1240"/>
+  <g filter="url(#shadow)"><rect class="card" x="1250" y="275" width="280" height="155" rx="22" stroke="#c9965b"/><circle cx="1290" cy="316" r="22" fill="#a66622"/><text x="1290" y="323" text-anchor="middle" class="num">5</text><text x="1325" y="323" class="h">Limitation</text><text x="1285" y="361" class="body">Short period? Missing context?</text><text x="1285" y="388" class="body">Self-report? Association rather</text><text x="1285" y="415" class="body">than demonstrated cause?</text></g>
+
+  <g filter="url(#shadow)"><rect x="420" y="466" width="760" height="72" rx="36" fill="#fff1da" stroke="#d19a4f" stroke-width="3"/><text x="800" y="511" text-anchor="middle" class="rule">CORE RULE: NEVER CLAIM MORE THAN THE EVIDENCE SUPPORTS</text></g>
+
+  <rect x="70" y="574" width="1460" height="68" rx="28" fill="#5d4c86"/><text x="110" y="618" class="lane">LANE B — SELECT, EXPLAIN AND REFLECT ON COURSE EVIDENCE</text>
+  <g filter="url(#shadow)"><rect class="card" x="85" y="683" width="270" height="170" rx="22" stroke="#9d91bd"/><circle cx="125" cy="724" r="22" fill="#6b5a93"/><text x="125" y="731" text-anchor="middle" class="num">1</text><text x="160" y="731" class="h">Select evidence</text><text x="120" y="769" class="body">Choose a small number of</text><text x="120" y="796" class="body">artefacts that support the</text><text x="120" y="823" class="body">learning claim.</text></g>
+  <path class="line" d="M355 768H385"/>
+  <g filter="url(#shadow)"><rect class="card" x="395" y="683" width="270" height="170" rx="22" stroke="#9d91bd"/><circle cx="435" cy="724" r="22" fill="#6b5a93"/><text x="435" y="731" text-anchor="middle" class="num">2</text><text x="470" y="731" class="h">Source + context</text><text x="430" y="769" class="body">Identify where it came from,</text><text x="430" y="796" class="body">what it shows and any limit</text><text x="430" y="823" class="body">on how it can be used.</text></g>
+  <path class="line" d="M665 768H695"/>
+  <g filter="url(#shadow)"><rect class="card" x="705" y="683" width="270" height="170" rx="22" stroke="#9d91bd"/><circle cx="745" cy="724" r="22" fill="#6b5a93"/><text x="745" y="731" text-anchor="middle" class="num">3</text><text x="780" y="731" class="h">Explain reasoning</text><text x="740" y="769" class="body">Show how and why the</text><text x="740" y="796" class="body">evidence supports the</text><text x="740" y="823" class="body">claim.</text></g>
+  <path class="line" d="M975 768H1005"/>
+  <g filter="url(#shadow)"><rect class="card" x="1015" y="683" width="245" height="170" rx="22" stroke="#9d91bd"/><circle cx="1055" cy="724" r="22" fill="#6b5a93"/><text x="1055" y="731" text-anchor="middle" class="num">4</text><text x="1090" y="731" class="h">Qualified claim</text><text x="1050" y="769" class="body">Include continuity, change</text><text x="1050" y="796" class="body">and context where the</text><text x="1050" y="823" class="body">evidence supports them.</text></g>
+  <path class="line" d="M1260 768H1290"/>
+  <g filter="url(#shadow)"><rect class="card" x="1300" y="683" width="230" height="170" rx="22" stroke="#c9965b"/><circle cx="1340" cy="724" r="22" fill="#a66622"/><text x="1340" y="731" text-anchor="middle" class="num">5</text><text x="1375" y="731" class="h">Reflect</text><text x="1335" y="769" class="body">What changed?</text><text x="1335" y="796" class="body">What remains uncertain?</text><text x="1335" y="823" class="body">What is the next action?</text></g>
+
+  <text x="800" y="920" text-anchor="middle" class="rule">NOTICE: Saving, backing up or exporting supports organisation — it is not submission or grading.</text>
+  <text x="800" y="953" text-anchor="middle" class="body">Share work only as directed by the teacher, and keep personal information out of public files.</text>
+</svg>

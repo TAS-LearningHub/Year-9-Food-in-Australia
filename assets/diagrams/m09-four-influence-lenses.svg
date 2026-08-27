@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Four lenses on one fictional food choice</title>
+  <desc id="desc">Four overlapping lenses—physiological, psychological, social and economic—surround a fictional food choice. Example clues show how multiple influences can interact without judging the person or ranking the categories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8ef"/><stop offset="1" stop-color="#f0f8f6"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#273d3d" flood-opacity=".13"/></filter>
+    <style>.title{font:700 46px Arial,sans-serif;fill:#173b40}.sub{font:400 22px Arial,sans-serif;fill:#52696d}.lens{stroke-width:4;fill-opacity:.82}.h{font:700 25px Arial,sans-serif;fill:#173b40}.body{font:400 18px Arial,sans-serif;fill:#385359}.core{font:700 28px Arial,sans-serif;fill:#fff}.coreSmall{font:400 18px Arial,sans-serif;fill:#eaf7f5}.note{font:700 19px Arial,sans-serif;fill:#765019}</style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="82" y="82" class="title">Four lenses on one fictional food choice</text>
+  <text x="84" y="122" class="sub">Classify clues, then look at the overlaps. A category helps analysis; it does not judge a food or person.</text>
+
+  <g filter="url(#shadow)"><circle class="lens" cx="595" cy="435" r="255" fill="#bde6d2" stroke="#499676"/><circle class="lens" cx="1005" cy="435" r="255" fill="#f5d9a4" stroke="#c28a2c"/><circle class="lens" cx="595" cy="650" r="255" fill="#bfd7ef" stroke="#4f83b2"/><circle class="lens" cx="1005" cy="650" r="255" fill="#e3c9e9" stroke="#9465a0"/></g>
+  <g filter="url(#shadow)"><circle cx="800" cy="545" r="158" fill="#245e63" stroke="#fff" stroke-width="5"/><text x="800" y="515" text-anchor="middle" class="core">FICTIONAL</text><text x="800" y="551" text-anchor="middle" class="core">FOOD CHOICE</text><text x="800" y="594" text-anchor="middle" class="coreSmall">explain with evidence,</text><text x="800" y="622" text-anchor="middle" class="coreSmall">not assumption</text></g>
+
+  <text x="440" y="292" text-anchor="middle" class="h">PHYSIOLOGICAL</text><text x="410" y="333" text-anchor="middle" class="body">hunger • thirst</text><text x="410" y="362" text-anchor="middle" class="body">energy needs • sensory response</text>
+  <text x="1160" y="292" text-anchor="middle" class="h">PSYCHOLOGICAL</text><text x="1190" y="333" text-anchor="middle" class="body">preference • mood</text><text x="1190" y="362" text-anchor="middle" class="body">habit • memory • perception</text>
+  <text x="400" y="785" text-anchor="middle" class="h">SOCIAL</text><text x="390" y="826" text-anchor="middle" class="body">household • peers</text><text x="390" y="855" text-anchor="middle" class="body">occasion • routine • media</text>
+  <text x="1200" y="785" text-anchor="middle" class="h">ECONOMIC</text><text x="1210" y="826" text-anchor="middle" class="body">price • budget</text><text x="1210" y="855" text-anchor="middle" class="body">availability • time • transport</text>
+
+  <g filter="url(#shadow)"><rect x="565" y="160" width="470" height="74" rx="37" fill="#fff" stroke="#91aaa7" stroke-width="3"/><text x="800" y="190" text-anchor="middle" class="note">ONE CLUE CAN FIT MORE THAN ONE LENS</text><text x="800" y="218" text-anchor="middle" class="body">Explain the connection and identify missing information.</text></g>
+  <g filter="url(#shadow)"><rect x="420" y="904" width="760" height="62" rx="31" fill="#fff3de" stroke="#d09a4d" stroke-width="3"/><text x="800" y="943" text-anchor="middle" class="note">NOTICE: Which two influences may interact — and what evidence would test that explanation?</text></g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-based food modification loop</title>
+  <desc id="desc">A five-stage loop moves from purpose through source check, functional prediction, fair trial and evaluation, then returns to revise the proposal.</desc>
+  <defs><marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6 0 12Z" fill="#2b6f68"/></marker></defs>
+  <rect width="1600" height="900" rx="36" fill="#f8fbfa"/>
+  <text x="80" y="86" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#183f3d">Modify with a reason</text>
+  <text x="80" y="134" font-family="Arial, sans-serif" font-size="24" fill="#4b625e">A fair trial links every ingredient change to a purpose, prediction and evaluation.</text>
+  <g font-family="Arial, sans-serif">
+    <circle cx="800" cy="492" r="158" fill="#fff4d7" stroke="#d1a33f" stroke-width="5"/>
+    <text x="800" y="450" text-anchor="middle" font-size="28" font-weight="700" fill="#5f4616">FAIR TRIAL</text>
+    <text x="800" y="491" text-anchor="middle" font-size="23" fill="#493d27">keep other factors</text><text x="800" y="525" text-anchor="middle" font-size="23" fill="#493d27">as consistent as possible</text>
+    <text x="800" y="570" text-anchor="middle" font-size="20" font-weight="700" fill="#8a422f">change one planned variable</text>
+    <g transform="translate(115 245)"><rect width="310" height="150" rx="28" fill="#fff" stroke="#2b6f68" stroke-width="5"/><text x="155" y="54" text-anchor="middle" font-size="26" font-weight="700" fill="#183f3d">1 · PURPOSE</text><text x="155" y="94" text-anchor="middle" font-size="21" fill="#405653">What needs to improve</text><text x="155" y="123" text-anchor="middle" font-size="21" fill="#405653">or change?</text></g>
+    <g transform="translate(645 180)"><rect width="310" height="150" rx="28" fill="#fff" stroke="#4f83a6" stroke-width="5"/><text x="155" y="54" text-anchor="middle" font-size="26" font-weight="700" fill="#264a61">2 · SOURCE CHECK</text><text x="155" y="94" text-anchor="middle" font-size="21" fill="#405653">Is the ingredient information</text><text x="155" y="123" text-anchor="middle" font-size="21" fill="#405653">credible and permitted?</text></g>
+    <g transform="translate(1175 245)"><rect width="310" height="150" rx="28" fill="#fff" stroke="#9166a8" stroke-width="5"/><text x="155" y="54" text-anchor="middle" font-size="26" font-weight="700" fill="#573c67">3 · PREDICT</text><text x="155" y="94" text-anchor="middle" font-size="21" fill="#405653">How might the change affect</text><text x="155" y="123" text-anchor="middle" font-size="21" fill="#405653">function and quality?</text></g>
+    <g transform="translate(1010 660)"><rect width="350" height="150" rx="28" fill="#fff" stroke="#a44d39" stroke-width="5"/><text x="175" y="54" text-anchor="middle" font-size="26" font-weight="700" fill="#692e22">4 · OBSERVE</text><text x="175" y="94" text-anchor="middle" font-size="21" fill="#405653">Record relevant evidence from</text><text x="175" y="123" text-anchor="middle" font-size="21" fill="#405653">the teacher-authorised trial.</text></g>
+    <g transform="translate(240 660)"><rect width="350" height="150" rx="28" fill="#fff" stroke="#c28b27" stroke-width="5"/><text x="175" y="54" text-anchor="middle" font-size="26" font-weight="700" fill="#604514">5 · EVALUATE</text><text x="175" y="94" text-anchor="middle" font-size="21" fill="#405653">Did the evidence support</text><text x="175" y="123" text-anchor="middle" font-size="21" fill="#405653">the intended purpose?</text></g>
+    <path d="M430 285 Q555 190 625 230" fill="none" stroke="#2b6f68" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M970 230 Q1085 190 1165 285" fill="none" stroke="#2b6f68" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M1360 410 Q1435 550 1288 650" fill="none" stroke="#2b6f68" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M1000 746 H610" fill="none" stroke="#2b6f68" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M260 650 Q105 550 185 410" fill="none" stroke="#2b6f68" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M300 660 Q165 480 245 400" fill="none" stroke="#8a422f" stroke-width="4" stroke-dasharray="13 12"/>
+    <text x="84" y="570" font-size="19" font-weight="700" fill="#8a422f" transform="rotate(-66 84 570)">revise the proposal</text>
+  </g>
+</svg>

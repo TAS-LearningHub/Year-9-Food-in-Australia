@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Disruption, continuity and adaptation pathways</title>
+  <desc id="desc">A dual-pathway diagram shows how colonial conditions may disrupt food access while knowledge, care, adaptation and revitalisation can continue. Experiences vary by place and time.</desc>
+  <defs><marker id="redarr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6 0 12Z" fill="#a44d39"/></marker><marker id="greenarr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6 0 12Z" fill="#2b6f68"/></marker></defs>
+  <rect width="1600" height="900" rx="36" fill="#f8fbfa"/>
+  <text x="80" y="86" font-family="Arial, sans-serif" font-size="49" font-weight="700" fill="#183f3d">Disruption did not erase continuity</text>
+  <text x="80" y="134" font-family="Arial, sans-serif" font-size="24" fill="#4b625e">Explain both pathways, then use place-specific evidence to show where and when they apply.</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(80 205)">
+      <rect width="1440" height="255" rx="34" fill="#fff4f0" stroke="#d79a8c" stroke-width="4"/>
+      <rect x="25" y="25" width="220" height="205" rx="28" fill="#a44d39"/><text x="135" y="94" text-anchor="middle" font-size="27" font-weight="700" fill="#fff">DISRUPTION</text><text x="135" y="135" text-anchor="middle" font-size="20" fill="#ffe8e2">conditions imposed</text><text x="135" y="165" text-anchor="middle" font-size="20" fill="#ffe8e2">through colonisation</text>
+      <g fill="#fff" stroke="#a44d39" stroke-width="4"><rect x="310" y="42" width="280" height="80" rx="20"/><rect x="310" y="142" width="280" height="80" rx="20"/><rect x="690" y="42" width="280" height="80" rx="20"/><rect x="690" y="142" width="280" height="80" rx="20"/><rect x="1070" y="92" width="310" height="80" rx="20"/></g>
+      <g text-anchor="middle" font-size="21" fill="#51352f"><text x="450" y="77">restricted access</text><text x="450" y="105">to Country</text><text x="450" y="177">environmental</text><text x="450" y="205">change</text><text x="830" y="77">interrupted seasonal</text><text x="830" y="105">movement</text><text x="830" y="177">changed or reduced</text><text x="830" y="205">food choices</text><text x="1225" y="127">food-system effects</text><text x="1225" y="155">vary by context</text></g>
+      <path d="M252 127H294" stroke="#a44d39" stroke-width="7" marker-end="url(#redarr)"/><path d="M600 82H674" stroke="#a44d39" stroke-width="7" marker-end="url(#redarr)"/><path d="M980 82Q1035 90 1055 115" fill="none" stroke="#a44d39" stroke-width="7" marker-end="url(#redarr)"/><path d="M980 182Q1035 175 1055 150" fill="none" stroke="#a44d39" stroke-width="7" marker-end="url(#redarr)"/>
+    </g>
+    <g transform="translate(80 520)">
+      <rect width="1440" height="255" rx="34" fill="#eef7f4" stroke="#8ebdb4" stroke-width="4"/>
+      <rect x="25" y="25" width="220" height="205" rx="28" fill="#2b6f68"/><text x="135" y="83" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">CONTINUITY</text><text x="135" y="118" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">&amp; ADAPTATION</text><text x="135" y="165" text-anchor="middle" font-size="19" fill="#daf1ec">living knowledge and</text><text x="135" y="194" text-anchor="middle" font-size="19" fill="#daf1ec">Community agency</text>
+      <g fill="#fff" stroke="#2b6f68" stroke-width="4"><rect x="310" y="42" width="280" height="80" rx="20"/><rect x="310" y="142" width="280" height="80" rx="20"/><rect x="690" y="42" width="280" height="80" rx="20"/><rect x="690" y="142" width="280" height="80" rx="20"/><rect x="1070" y="92" width="310" height="80" rx="20"/></g>
+      <g text-anchor="middle" font-size="21" fill="#294744"><text x="450" y="77">knowledge maintained</text><text x="450" y="105">and shared as authorised</text><text x="450" y="177">practices adapted</text><text x="450" y="205">to changed conditions</text><text x="830" y="77">caring for Country</text><text x="830" y="105">continues</text><text x="830" y="177">knowledge and access</text><text x="830" y="205">can be revitalised</text><text x="1225" y="127">continuity and change</text><text x="1225" y="155">can occur together</text></g>
+      <path d="M252 127H294" stroke="#2b6f68" stroke-width="7" marker-end="url(#greenarr)"/><path d="M600 82H674" stroke="#2b6f68" stroke-width="7" marker-end="url(#greenarr)"/><path d="M980 82Q1035 90 1055 115" fill="none" stroke="#2b6f68" stroke-width="7" marker-end="url(#greenarr)"/><path d="M980 182Q1035 175 1055 150" fill="none" stroke="#2b6f68" stroke-width="7" marker-end="url(#greenarr)"/>
+    </g>
+    <rect x="420" y="804" width="760" height="58" rx="29" fill="#183f3d"/>
+    <text x="800" y="842" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Different places and times experienced these pathways differently.</text>
+  </g>
+</svg>

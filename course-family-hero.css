@@ -1,0 +1,210 @@
+/* Shared homepage hero geometry for the TAS course family. */
+.course-family-hero {
+  --family-hero-height: 600px;
+  --family-hero-media-height: 360px;
+  display: block !important;
+  height: var(--family-hero-height) !important;
+  isolation: isolate;
+  margin: 0 !important;
+  max-height: var(--family-hero-height) !important;
+  max-width: none !important;
+  min-height: var(--family-hero-height) !important;
+  overflow: hidden;
+  padding: 0 !important;
+  position: relative;
+  width: 100% !important;
+}
+
+.course-family-hero .course-family-hero-inner {
+  align-items: center !important;
+  display: grid !important;
+  gap: 48px !important;
+  grid-template-columns: minmax(0, 1fr) minmax(360px, 440px) !important;
+  margin: 0 auto !important;
+  max-width: 1240px !important;
+  min-height: var(--family-hero-height) !important;
+  padding: 56px 40px !important;
+  width: calc(100% - 32px) !important;
+}
+
+.course-family-hero .hero-copy {
+  max-width: 680px !important;
+  min-width: 0;
+  padding: 0 !important;
+  width: 100% !important;
+}
+
+.course-family-hero .eyebrow {
+  font-size: .82rem !important;
+  font-weight: 900 !important;
+  letter-spacing: .14em !important;
+  line-height: 1.35 !important;
+  margin: 0 0 14px !important;
+  text-transform: uppercase;
+}
+
+.course-family-hero h1 {
+  font-size: clamp(3rem, 5vw, 4.5rem) !important;
+  font-weight: 900 !important;
+  letter-spacing: -.045em !important;
+  line-height: 1 !important;
+  margin: 0 !important;
+  max-width: 15ch !important;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+.course-family-hero .lede,
+.course-family-hero .hero-copy > p:not(.eyebrow) {
+  font-size: 1.12rem !important;
+  line-height: 1.55 !important;
+  margin: 18px 0 0 !important;
+  max-width: 58ch !important;
+}
+
+.course-family-hero .hero-actions {
+  align-items: stretch !important;
+  display: grid !important;
+  gap: 12px !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  margin: 26px 0 0 !important;
+  max-width: 540px !important;
+  width: 100% !important;
+}
+
+.course-family-hero .hero-actions > a {
+  align-items: center !important;
+  border: 1px solid rgba(255, 255, 255, .58) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 12px 26px rgba(6, 23, 33, .14) !important;
+  display: flex !important;
+  font-size: .98rem !important;
+  font-weight: 850 !important;
+  justify-content: center !important;
+  line-height: 1.2 !important;
+  margin: 0 !important;
+  min-height: 52px !important;
+  padding: 13px 16px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  width: 100% !important;
+}
+
+.course-family-hero .hero-actions > a:first-child {
+  background: var(--family-action-primary, var(--sand, #f1e5ce)) !important;
+  color: var(--family-action-primary-ink, var(--forest-dark, #154332)) !important;
+}
+
+.course-family-hero .hero-actions > a:nth-child(n + 2) {
+  background: rgba(255, 255, 255, .96) !important;
+  color: var(--family-action-secondary-ink, var(--forest-dark, #154332)) !important;
+}
+
+.course-family-hero .hero-actions > a:hover,
+.course-family-hero .hero-actions > a:focus-visible {
+  box-shadow: 0 14px 30px rgba(4, 18, 28, .24) !important;
+  outline: 3px solid rgba(255, 255, 255, .58) !important;
+  outline-offset: 3px;
+  transform: translateY(-2px);
+}
+
+.course-family-hero .hero-image {
+  align-self: center !important;
+  background: rgba(255, 255, 255, .12);
+  border: 1px solid rgba(255, 255, 255, .28);
+  border-radius: 24px !important;
+  box-shadow: 0 24px 54px rgba(3, 18, 28, .28) !important;
+  display: flex !important;
+  flex-direction: column;
+  height: var(--family-hero-media-height) !important;
+  margin: 0 !important;
+  max-height: var(--family-hero-media-height) !important;
+  max-width: none !important;
+  min-height: var(--family-hero-media-height) !important;
+  overflow: hidden !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.course-family-hero .hero-image img {
+  display: block !important;
+  flex: 1 1 auto;
+  height: 100% !important;
+  margin: 0 !important;
+  max-height: none !important;
+  max-width: none !important;
+  min-height: 0;
+  object-fit: cover !important;
+  object-position: center !important;
+  padding: 0 !important;
+  position: static !important;
+  width: 100% !important;
+}
+
+.course-family-hero figcaption {
+  background: rgba(7, 19, 27, .9) !important;
+  color: rgba(255, 255, 255, .94) !important;
+  flex: 0 0 auto;
+  font-size: .78rem !important;
+  line-height: 1.35 !important;
+  margin: 0 !important;
+  padding: 10px 14px !important;
+  position: static !important;
+}
+
+.course-family-hero.family-dark-hero {
+  background:
+    radial-gradient(circle at 88% 12%, rgba(241, 229, 206, .2), transparent 24rem),
+    linear-gradient(125deg, var(--forest-dark, #154332), var(--forest, #205d46) 66%, #587760) !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  color: #fff !important;
+}
+
+.course-family-hero.family-dark-hero .eyebrow { color: #f6d6a4 !important; }
+.course-family-hero.family-dark-hero h1 { color: #fff !important; }
+.course-family-hero.family-dark-hero .lede { color: rgba(255, 255, 255, .92) !important; }
+
+@media (max-width: 820px) {
+  .course-family-hero {
+    height: auto !important;
+    max-height: none !important;
+    min-height: auto !important;
+  }
+
+  .course-family-hero .course-family-hero-inner {
+    gap: 28px !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    min-height: auto !important;
+    padding: 42px 20px 36px !important;
+    width: calc(100% - 20px) !important;
+  }
+
+  .course-family-hero h1 {
+    font-size: clamp(2.55rem, 12vw, 4rem) !important;
+    max-width: 100% !important;
+  }
+
+  .course-family-hero .hero-actions {
+    grid-template-columns: minmax(0, 1fr) !important;
+    max-width: none !important;
+  }
+
+  .course-family-hero .hero-image {
+    height: 280px !important;
+    max-height: 280px !important;
+    min-height: 280px !important;
+  }
+}
+
+@media (max-width: 420px) {
+  .course-family-hero .course-family-hero-inner {
+    padding-inline: 14px !important;
+    width: 100% !important;
+  }
+}
+
+@media print {
+  .course-family-hero .hero-actions { display: none !important; }
+}

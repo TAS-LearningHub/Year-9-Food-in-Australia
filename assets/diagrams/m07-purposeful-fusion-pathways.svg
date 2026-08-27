@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Random mix versus purposeful fusion</title>
+  <desc id="desc">A comparison shows a weak random-mix pathway and a stronger purposeful pathway based on user and purpose, research, compatible elements, explained decisions, and a respect and context review.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8ef"/><stop offset="1" stop-color="#f0f8f6"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#263b3b" flood-opacity=".13"/></filter>
+    <marker id="arrBad" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#a85242"/></marker>
+    <marker id="arrGood" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#24766d"/></marker>
+    <style>.title{font:700 46px Arial,sans-serif;fill:#173a40}.sub{font:400 22px Arial,sans-serif;fill:#53696c}.head{font:700 29px Arial,sans-serif}.box{fill:#fff;stroke-width:3}.h{font:700 22px Arial,sans-serif;fill:#1b3b42}.body{font:400 18px Arial,sans-serif;fill:#445d61}.badge{font:700 18px Arial,sans-serif}.badline{stroke:#a85242;stroke-width:5;fill:none;marker-end:url(#arrBad)}.goodline{stroke:#24766d;stroke-width:5;fill:none;marker-end:url(#arrGood)}</style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="84" y="84" class="title">Random mix versus purposeful fusion</text>
+  <text x="86" y="124" class="sub">The strength comes from evidence and reasoning, not from how many recognisable elements are combined.</text>
+  <line x1="800" y1="180" x2="800" y2="895" stroke="#bfd2cf" stroke-width="3" stroke-dasharray="10 12"/>
+  <text x="405" y="190" text-anchor="middle" class="head" fill="#9d4638">WEAK PATHWAY: RANDOM MIX</text>
+  <text x="1195" y="190" text-anchor="middle" class="head" fill="#1f6c65">STRONG PATHWAY: PURPOSEFUL DESIGN</text>
+
+  <g filter="url(#shadow)"><rect class="box" x="130" y="240" width="550" height="120" rx="24" stroke="#d49285"/><text x="175" y="286" class="h">Pick recognisable elements</text><text x="175" y="321" class="body">Chosen because they look “cultural”, without a clear user,</text><text x="175" y="348" class="body">purpose or source-based reason.</text></g>
+  <path class="badline" d="M405 360V414"/>
+  <g filter="url(#shadow)"><rect class="box" x="175" y="425" width="460" height="120" rx="24" stroke="#d49285"/><text x="220" y="471" class="h">Combine at random</text><text x="220" y="506" class="body">Compatibility, function, context and meaning remain</text><text x="220" y="533" class="body">unexplained.</text></g>
+  <path class="badline" d="M405 545V599"/>
+  <g filter="url(#shadow)"><rect class="box" x="220" y="610" width="370" height="120" rx="24" stroke="#d49285"/><text x="405" y="656" text-anchor="middle" class="h">Add a themed label</text><text x="405" y="691" text-anchor="middle" class="body">A label cannot create cultural</text><text x="405" y="718" text-anchor="middle" class="body">understanding or respect.</text></g>
+  <rect x="245" y="782" width="320" height="62" rx="31" fill="#fff0ed" stroke="#b95e4d" stroke-width="3"/><text x="405" y="821" text-anchor="middle" class="badge" fill="#943c2d">STOP: RESEARCH AND REFRAME</text>
+
+  <g filter="url(#shadow)"><rect class="box" x="900" y="230" width="590" height="104" rx="24" stroke="#75b2aa"/><circle cx="944" cy="282" r="25" fill="#24766d"/><text x="944" y="290" text-anchor="middle" fill="#fff" font-family="Arial" font-size="21" font-weight="700">1</text><text x="986" y="273" class="h">Define user + purpose</text><text x="986" y="306" class="body">What experience or need should the concept address?</text></g>
+  <path class="goodline" d="M1195 334V365"/>
+  <g filter="url(#shadow)"><rect class="box" x="930" y="376" width="530" height="104" rx="24" stroke="#75b2aa"/><circle cx="974" cy="428" r="25" fill="#24766d"/><text x="974" y="436" text-anchor="middle" fill="#fff" font-family="Arial" font-size="21" font-weight="700">2</text><text x="1016" y="414" class="h">Research influences</text><text x="1016" y="443" class="body">Use credible, varied evidence;</text><text x="1016" y="469" class="body">acknowledge its context.</text></g>
+  <path class="goodline" d="M1195 480V511"/>
+  <g filter="url(#shadow)"><rect class="box" x="960" y="522" width="470" height="104" rx="24" stroke="#75b2aa"/><circle cx="1004" cy="574" r="25" fill="#24766d"/><text x="1004" y="582" text-anchor="middle" fill="#fff" font-family="Arial" font-size="21" font-weight="700">3</text><text x="1046" y="560" class="h">Select compatible elements</text><text x="1046" y="589" class="body">Choose each for a stated role,</text><text x="1046" y="615" class="body">not token recognition.</text></g>
+  <path class="goodline" d="M1195 626V657"/>
+  <g filter="url(#shadow)"><rect class="box" x="930" y="668" width="530" height="104" rx="24" stroke="#75b2aa"/><circle cx="974" cy="720" r="25" fill="#24766d"/><text x="974" y="728" text-anchor="middle" fill="#fff" font-family="Arial" font-size="21" font-weight="700">4</text><text x="1016" y="706" class="h">Explain each decision</text><text x="1016" y="735" class="body">Link flavour, texture, structure or service</text><text x="1016" y="761" class="body">to the design purpose.</text></g>
+  <path class="goodline" d="M1195 772V803"/>
+  <g filter="url(#shadow)"><rect class="box" x="900" y="814" width="590" height="104" rx="24" stroke="#75b2aa"/><circle cx="944" cy="866" r="25" fill="#24766d"/><text x="944" y="874" text-anchor="middle" fill="#fff" font-family="Arial" font-size="21" font-weight="700">5</text><text x="986" y="852" class="h">Review respect + context</text><text x="986" y="881" class="body">Check acknowledgement and authority;</text><text x="986" y="907" class="body">flag unresolved questions.</text></g>
+</svg>

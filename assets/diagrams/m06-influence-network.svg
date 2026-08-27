@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">A changing network of Australian food influences</title>
+  <desc id="desc">A central card for diverse contemporary food habits connects in both directions with Aboriginal and Torres Strait Islander food cultures, migration, regional production, trade and travel, technology and media, work and social patterns, and climate, cost and environmental choices.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9ef"/><stop offset="1" stop-color="#eef8f5"/></linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d6b63"/><stop offset="1" stop-color="#124e78"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#173a3a" flood-opacity=".14"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#507c78"/></marker>
+    <style>
+      .title{font:700 46px Arial,sans-serif;fill:#17313d}.subtitle{font:400 23px Arial,sans-serif;fill:#425c63}.card{fill:#fff;stroke:#b9d5cf;stroke-width:3}.cardTitle{font:700 25px Arial,sans-serif;fill:#17313d}.cardText{font:400 19px Arial,sans-serif;fill:#455c63}.coreTitle{font:700 32px Arial,sans-serif;fill:#fff}.coreText{font:400 21px Arial,sans-serif;fill:#eaf8f5}.link{fill:none;stroke:#507c78;stroke-width:5;marker-start:url(#arrow);marker-end:url(#arrow)}.note{font:700 20px Arial,sans-serif;fill:#7b4b12}
+    </style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="90" y="82" class="title">A changing network of Australian food influences</text>
+  <text x="92" y="122" class="subtitle">Many influences overlap, continue and change; no single food represents everyone.</text>
+
+  <path class="link" d="M495 364C575 386 600 410 650 438"/><path class="link" d="M1105 364C1025 386 1000 410 950 438"/>
+  <path class="link" d="M490 666C570 640 610 610 657 580"/><path class="link" d="M1110 666C1030 640 990 610 943 580"/>
+  <path class="link" d="M635 270C655 335 700 375 745 410"/><path class="link" d="M965 270C945 335 900 375 855 410"/>
+  <path class="link" d="M635 768C660 702 710 650 750 602"/><path class="link" d="M965 768C940 702 890 650 850 602"/>
+
+  <g filter="url(#shadow)"><rect x="575" y="397" width="450" height="218" rx="34" fill="url(#core)"/>
+    <text x="800" y="463" text-anchor="middle" class="coreTitle">Diverse contemporary</text><text x="800" y="503" text-anchor="middle" class="coreTitle">Australian food habits</text>
+    <text x="800" y="548" text-anchor="middle" class="coreText">ingredients • methods • businesses</text><text x="800" y="580" text-anchor="middle" class="coreText">social habits • meanings</text></g>
+
+  <g filter="url(#shadow)"><rect class="card" x="90" y="218" width="405" height="160" rx="24"/><text x="122" y="264" class="cardTitle">Living food cultures</text><text x="122" y="302" class="cardText">Aboriginal and Torres Strait Islander</text><text x="122" y="333" class="cardText">knowledge is living and place-based</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="1105" y="218" width="405" height="160" rx="24"/><text x="1137" y="264" class="cardTitle">Migration</text><text x="1137" y="302" class="cardText">food knowledge, preferences,</text><text x="1137" y="333" class="cardText">businesses and changing practices</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="90" y="626" width="400" height="160" rx="24"/><text x="122" y="672" class="cardTitle">Regional production</text><text x="122" y="710" class="cardText">place, season, climate and</text><text x="122" y="741" class="cardText">available ingredients</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="1110" y="626" width="400" height="160" rx="24"/><text x="1142" y="672" class="cardTitle">Trade and travel</text><text x="1142" y="710" class="cardText">access to ingredients, ideas</text><text x="1142" y="741" class="cardText">and food experiences</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="480" y="154" width="310" height="135" rx="24"/><text x="635" y="201" text-anchor="middle" class="cardTitle">Technology + media</text><text x="635" y="238" text-anchor="middle" class="cardText">production, access,</text><text x="635" y="267" text-anchor="middle" class="cardText">information and influence</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="810" y="154" width="310" height="135" rx="24"/><text x="965" y="201" text-anchor="middle" class="cardTitle">Work + social life</text><text x="965" y="238" text-anchor="middle" class="cardText">time, routines, households</text><text x="965" y="267" text-anchor="middle" class="cardText">and shared occasions</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="480" y="748" width="310" height="135" rx="24"/><text x="635" y="795" text-anchor="middle" class="cardTitle">Cost + access</text><text x="635" y="832" text-anchor="middle" class="cardText">prices, availability and</text><text x="635" y="861" text-anchor="middle" class="cardText">household circumstances</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="810" y="748" width="310" height="135" rx="24"/><text x="965" y="795" text-anchor="middle" class="cardTitle">Environment</text><text x="965" y="832" text-anchor="middle" class="cardText">climate, resources and</text><text x="965" y="861" text-anchor="middle" class="cardText">changing priorities</text></g>
+  <text x="800" y="946" text-anchor="middle" class="note">NOTICE: Follow the two-way arrows — influences can affect one another, not just the centre.</text>
+</svg>

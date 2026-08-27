@@ -1,0 +1,150 @@
+(function () {
+  "use strict";
+
+  window.FOOD_AUSTRALIA_VIDEOS = Object.freeze({
+    schemaVersion: "1.0.0",
+    checkedDate: "2026-08-26",
+    entries: Object.freeze([
+      {
+        moduleId: 1,
+        sectionId: "m01-s02",
+        id: "RUeVNCEDbCo",
+        title: "Four Golden Rules of food safety",
+        channel: "NSWFoodAuthority",
+        duration: "1:46",
+        purpose: "Notice how broad food-safety advice can be translated into specific contamination controls before practical work.",
+        before: "Predict four actions a food-safety authority is likely to prioritise.",
+        during: "Record each rule, the hazard it addresses and one specific control it suggests.",
+        after: "Choose the rule most likely to break a contamination chain and justify your choice.",
+        alternative: "Revisit ‘Hygiene breaks the contamination chain’. Build a four-row table with the headings source, transfer route, vulnerable food and control, then complete one realistic example for each row.",
+        notes: "Short official NSW overview. Your teacher’s local food-room procedure still controls practical action."
+      },
+      {
+        moduleId: 2,
+        sectionId: "m02-s01",
+        id: "WQ8NiPKTavQ",
+        title: "Bush Tucker Garden - Behind the News",
+        channel: "Behind the News",
+        duration: "3:10",
+        purpose: "Identify who is speaking, where the food knowledge is located and how research or cultivation can be described without treating native foods as ownerless ingredients.",
+        before: "What would make a story about native foods respectful, specific and evidence-based?",
+        during: "Note the people, place, knowledge source and purpose described in the report.",
+        after: "Write one careful sentence that names the source and place, then one question that would need local confirmation.",
+        alternative: "Use ‘Country, identity and respectful language’. Create a source-and-place checklist, then apply it to one native-food claim from a teacher-approved source.",
+        notes: "Public ABC education report. Do not turn the examples into permission to collect, prepare or use an ingredient."
+      },
+      {
+        moduleId: 3,
+        sectionId: "m03-s03",
+        id: "4Is8g8PQ7YY",
+        title: "What Is Indigenous Cultural & Intellectual Property?",
+        channel: "Arts Law Centre of Australia",
+        duration: "3:03",
+        purpose: "Distinguish access, attribution and permission when researching Aboriginal and Torres Strait Islander Cultural Knowledge.",
+        before: "Does finding material online mean you may copy or adapt it? Explain your starting view.",
+        during: "Listen for examples of knowledge, cultural expression, ownership and responsibility.",
+        after: "Explain why attribution can be necessary without being sufficient, then apply the idea to a food-research scenario.",
+        alternative: "Use ‘Research, permission and ICIP’. Draw a decision path from find → check ownership → check permission → attribute → decide whether to use.",
+        notes: "General legal and cultural orientation only. Local Community, AECG or Knowledge Holder guidance remains essential."
+      },
+      {
+        moduleId: 4,
+        sectionId: "m04-s03",
+        id: "Azm-x5T12Ck",
+        title: "Life on the Mission",
+        channel: "Victorian Collections",
+        duration: "6:21",
+        purpose: "Listen to Aboriginal Elders’ memories, then separate lived testimony from your own inference about food access and daily life.",
+        before: "What can a first-person memory reveal that a policy document may not?",
+        during: "Record one direct observation, one context clue and one question the clip does not answer.",
+        after: "Write a two-sentence source analysis: what this testimony supports and what it cannot establish on its own.",
+        alternative: "Use ‘Read historical sources critically’. Apply the origin–purpose–evidence–limits frame to one teacher-provided historical source.",
+        notes: "Contains Aboriginal Elders’ memories. Teacher preview and local cultural protocols apply; Aboriginal and Torres Strait Islander viewers should be advised that historical material may include people who have died."
+      },
+      {
+        moduleId: 5,
+        sectionId: "m05-s01",
+        id: "pNb1ZiWEXdU",
+        title: "Aboriginal food sources",
+        channel: "Museums of History NSW",
+        duration: "1:22",
+        purpose: "Connect land access and colonisation with changes to food access, while questioning the scope and perspective of a short museum explanation.",
+        before: "Predict one way restricted access to Country could affect a food system.",
+        during: "Record the causal link the clip makes and the evidence or examples used.",
+        after: "State the link in your own words, then identify one voice or detail needed for a fuller account.",
+        alternative: "Use ‘Colonisation changed food access’. Build a cause → immediate change → longer effect chain and add one source-limit question.",
+        notes: "Short museum source. Treat it as one account, not a complete or pan-Aboriginal history."
+      },
+      {
+        moduleId: 6,
+        sectionId: "m06-s01",
+        id: "TKQUAxmlOpU",
+        title: "The evolution of Chinese Australian cuisine | Belongings | ABC Australia",
+        channel: "ABC Australia",
+        duration: "6:22",
+        purpose: "Trace how migration, ingredients, businesses and adaptation interact over time in one specific Australian food story.",
+        before: "List two forces that might change a cuisine after migration.",
+        during: "Capture one example each of continuity, adaptation and exchange.",
+        after: "Explain why one community story can illuminate Australian cuisine without representing every Chinese Australian experience.",
+        alternative: "Use ‘Contemporary Australian cuisine keeps changing’. Make a continuity–change–cause organiser for one teacher-approved community food story.",
+        notes: "A specific Chinese Australian account. Avoid turning one story into a stereotype or a claim about all families or regions."
+      },
+      {
+        moduleId: 7,
+        sectionId: "m07-s01",
+        id: "l7RVXYUHCYQ",
+        title: "Up for a laksa iced coffee? Enjoy some of these interesting laksa-inspired dishes",
+        channel: "ABC Australia",
+        duration: "2:16",
+        purpose: "Test whether an unusual fusion idea has a clear sensory and cultural purpose rather than novelty alone.",
+        before: "What makes a fusion idea purposeful rather than random?",
+        during: "For each example, identify the familiar reference, the change and the intended experience.",
+        after: "Select one idea and evaluate it against purpose, respect, sensory logic and feasibility.",
+        alternative: "Use ‘Fusion needs a purpose’. Evaluate three imagined combinations with the same four criteria, then improve the weakest concept.",
+        notes: "Use for design analysis, not as an instruction to prepare any shown item."
+      },
+      {
+        moduleId: 8,
+        sectionId: "m08-s02",
+        id: "n9OS8yLF2Kc",
+        title: "Clextral, New technology; new foods",
+        channel: "CSIRO",
+        duration: "3:08",
+        purpose: "Observe how a processing technology is selected to change a food property while balancing quality and production goals.",
+        before: "What properties might a manufacturer want to preserve or change during processing?",
+        during: "Record the input, process, changed property and claimed benefit.",
+        after: "Explain why ‘newer’ does not automatically mean ‘better’; judge the method against its stated purpose.",
+        alternative: "Use ‘Processing changes properties’. Complete an input → process → property change → purpose chain for two processing methods.",
+        notes: "CSIRO industry case study. Treat company claims as claims to analyse, not automatic proof of superiority."
+      },
+      {
+        moduleId: 9,
+        sectionId: "m09-s02",
+        id: "ZP1av_3sOCY",
+        title: "Food Advertising - Behind the News",
+        channel: "Behind the News",
+        duration: "4:08",
+        purpose: "Identify how visual scale, language and presentation can shape expectations about a food product.",
+        before: "Name one way an advertisement can persuade without making a direct factual claim.",
+        during: "Record the audience, technique, intended response and evidence actually provided.",
+        after: "Rewrite one persuasive message so it remains appealing but is less likely to mislead.",
+        alternative: "Use ‘Decode a food ad’. Apply the audience–technique–feeling–evidence frame to a teacher-approved advertisement or a fictional example.",
+        notes: "Current availability and playback checked. Advertising examples remain objects for analysis, not endorsements."
+      },
+      {
+        moduleId: 10,
+        sectionId: "m10-s03",
+        id: null,
+        title: "A deliberate non-video pathway",
+        channel: "Course reading",
+        duration: "8–10 minutes",
+        purpose: "Slow down, compare evidence and make a deliberate selection instead of watching another explanation.",
+        before: "Choose two pieces of saved work that show different kinds of learning.",
+        during: "Re-read ‘Select, reflect and present evidence’ and annotate each piece for decision, evidence, improvement and next step.",
+        after: "Write a short curator statement explaining what you selected, what it proves and what you would improve.",
+        alternative: "This is already the complete non-video pathway. Use your saved folio evidence or teacher-provided printed copies.",
+        notes: "Intentional exception: a student’s own evidence is the most useful source for this synthesis task."
+      }
+    ])
+  });
+})();

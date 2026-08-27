@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Annotating a safe, feasible food concept</title>
+  <desc id="desc">A generic food concept in the centre has arrows to five annotation jobs: visible feature, sensory intention, functional reasoning, evidence source, and constraint or teacher-confirmation flag.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f8f6"/><stop offset="1" stop-color="#fff7ed"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#1c3f3d" flood-opacity=".14"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#337a72"/></marker>
+    <style>.title{font:700 46px Arial,sans-serif;fill:#173b40}.sub{font:400 22px Arial,sans-serif;fill:#50686b}.card{fill:#fff;stroke:#86b9b2;stroke-width:3}.h{font:700 23px Arial,sans-serif;fill:#173b40}.body{font:400 18px Arial,sans-serif;fill:#465f62}.line{stroke:#337a72;stroke-width:5;fill:none;marker-end:url(#arrow)}.tag{font:700 18px Arial,sans-serif;fill:#884e14}</style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="80" y="82" class="title">Annotating a safe, feasible food concept</text>
+  <text x="82" y="122" class="sub">An annotation names a feature, predicts its contribution and shows the reasoning or uncertainty behind it.</text>
+
+  <g filter="url(#shadow)"><circle cx="800" cy="520" r="265" fill="#fff" stroke="#d9b57c" stroke-width="12"/><circle cx="800" cy="520" r="195" fill="#f4ead9" stroke="#c99e5c" stroke-width="4"/>
+    <path d="M672 490C715 415 884 403 935 498C877 456 747 457 672 490Z" fill="#d9864d"/>
+    <path d="M688 510C758 465 850 465 918 513C849 584 754 584 688 510Z" fill="#70a56d"/>
+    <circle cx="749" cy="521" r="24" fill="#f0c75e"/><circle cx="811" cy="552" r="27" fill="#f0c75e"/><circle cx="861" cy="508" r="21" fill="#f0c75e"/>
+    <text x="800" y="655" text-anchor="middle" class="h">GENERIC CONCEPT</text><text x="800" y="684" text-anchor="middle" class="body">not a recipe or approval</text></g>
+
+  <path class="line" d="M650 365C570 310 510 280 430 272"/><path class="line" d="M950 365C1035 310 1095 280 1170 272"/>
+  <path class="line" d="M540 525C445 525 390 515 330 500"/><path class="line" d="M1060 525C1155 525 1210 515 1270 500"/>
+  <path class="line" d="M800 785V842"/>
+
+  <g filter="url(#shadow)"><rect class="card" x="100" y="190" width="430" height="160" rx="24"/><circle cx="145" cy="236" r="23" fill="#337a72"/><text x="145" y="244" text-anchor="middle" fill="#fff" font-family="Arial" font-size="19" font-weight="700">1</text><text x="182" y="244" class="h">Visible feature</text><text x="140" y="288" class="body">Name what another person can actually see:</text><text x="140" y="318" class="body">form, layer, placement, colour or component.</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="1070" y="190" width="430" height="160" rx="24"/><circle cx="1115" cy="236" r="23" fill="#337a72"/><text x="1115" y="244" text-anchor="middle" fill="#fff" font-family="Arial" font-size="19" font-weight="700">2</text><text x="1152" y="244" class="h">Sensory intention</text><text x="1110" y="288" class="body">Predict a relevant texture, flavour, aroma or</text><text x="1110" y="318" class="body">appearance — and label it as a prediction.</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="65" y="420" width="430" height="170" rx="24"/><circle cx="110" cy="466" r="23" fill="#337a72"/><text x="110" y="474" text-anchor="middle" fill="#fff" font-family="Arial" font-size="19" font-weight="700">3</text><text x="147" y="474" class="h">Functional reasoning</text><text x="105" y="518" class="body">Explain how the feature supports structure,</text><text x="105" y="548" class="body">service, handling or the stated design purpose.</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="1105" y="420" width="430" height="170" rx="24"/><circle cx="1150" cy="466" r="23" fill="#337a72"/><text x="1150" y="474" text-anchor="middle" fill="#fff" font-family="Arial" font-size="19" font-weight="700">4</text><text x="1187" y="474" class="h">Evidence source</text><text x="1145" y="518" class="body">Link the decision to suitable evidence, then</text><text x="1145" y="548" class="body">state where that evidence came from.</text></g>
+  <g filter="url(#shadow)"><rect class="card" x="505" y="840" width="590" height="120" rx="24" stroke="#ce934d"/><circle cx="550" cy="886" r="23" fill="#a6631b"/><text x="550" y="894" text-anchor="middle" fill="#fff" font-family="Arial" font-size="19" font-weight="700">5</text><text x="587" y="894" class="h">Constraint or confirmation flag</text><text x="545" y="934" class="body">Mark what still needs evidence, prototyping or teacher direction.</text></g>
+  <rect x="570" y="154" width="460" height="56" rx="28" fill="#fff3dd" stroke="#ce934d" stroke-width="2"/><text x="800" y="189" text-anchor="middle" class="tag">NOTICE: ANNOTATION EXPLAINS — IT DOES NOT AUTHORISE</text>
+</svg>

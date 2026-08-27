@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing two cooking methods for the same purpose</title>
+  <desc id="desc">A qualitative matrix compares steaming and roasting against the same criteria: heat transfer, predicted moisture, predicted surface colour, intended texture, service suitability and relevant constraints. It emphasises that the best choice depends on purpose.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4faf9"/><stop offset="1" stop-color="#fff7ec"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#273d3f" flood-opacity=".13"/></filter>
+    <style>.title{font:700 46px Arial,sans-serif;fill:#183b40}.sub{font:400 22px Arial,sans-serif;fill:#52696d}.head{font:700 24px Arial,sans-serif;fill:#fff}.rowhead{font:700 20px Arial,sans-serif;fill:#25484d}.cell{font:400 18px Arial,sans-serif;fill:#425d61}.note{font:700 19px Arial,sans-serif;fill:#7e4c13}</style>
+  </defs>
+  <rect width="1600" height="1000" rx="34" fill="url(#bg)"/>
+  <text x="80" y="82" class="title">Compare methods against the same purpose</text>
+  <text x="82" y="122" class="sub">These are qualitative predictions to test and justify — not instructions or universal rankings.</text>
+
+  <g filter="url(#shadow)"><rect x="80" y="178" width="1440" height="665" rx="28" fill="#fff" stroke="#b2cbc9" stroke-width="3"/>
+    <path d="M80 206Q80 178 108 178H1520V286H80Z" fill="#245f69"/>
+    <rect x="80" y="286" width="360" height="557" fill="#edf6f4"/>
+    <rect x="440" y="286" width="540" height="557" fill="#f7fbfa"/>
+    <rect x="980" y="286" width="540" height="557" fill="#fffaf3"/>
+    <line x1="440" y1="178" x2="440" y2="843" stroke="#aac5c2" stroke-width="3"/><line x1="980" y1="178" x2="980" y2="843" stroke="#aac5c2" stroke-width="3"/>
+    <text x="260" y="246" text-anchor="middle" class="head">SAME CRITERION</text><text x="710" y="246" text-anchor="middle" class="head">STEAMING — moist heat</text><text x="1250" y="246" text-anchor="middle" class="head">ROASTING — dry heat</text>
+
+    <g stroke="#c7d9d6" stroke-width="2"><line x1="80" y1="379" x2="1520" y2="379"/><line x1="80" y1="472" x2="1520" y2="472"/><line x1="80" y1="565" x2="1520" y2="565"/><line x1="80" y1="658" x2="1520" y2="658"/><line x1="80" y1="751" x2="1520" y2="751"/></g>
+    <text x="118" y="337" class="rowhead">Heat-transfer approach</text><text x="480" y="328" class="cell">Hot water vapour transfers energy</text><text x="480" y="357" class="cell">to the food surface.</text><text x="1020" y="328" class="cell">Hot air and heated surfaces transfer</text><text x="1020" y="357" class="cell">energy to the food.</text>
+    <text x="118" y="430" class="rowhead">Predicted moisture</text><text x="480" y="421" class="cell">Surface likely to remain moist;</text><text x="480" y="450" class="cell">little direct drying at the surface.</text><text x="1020" y="421" class="cell">Surface moisture can reduce as</text><text x="1020" y="450" class="cell">dry heat circulates.</text>
+    <text x="118" y="523" class="rowhead">Predicted surface colour</text><text x="480" y="523" class="cell">Usually limited surface browning.</text><text x="1020" y="514" class="cell">Browning may develop where the</text><text x="1020" y="543" class="cell">surface is exposed to dry heat.</text>
+    <text x="118" y="616" class="rowhead">Intended texture</text><text x="480" y="607" class="cell">Can suit a tender, moist result.</text><text x="1020" y="607" class="cell">Can suit browned edges and a</text><text x="1020" y="636" class="cell">drier or firmer surface.</text>
+    <text x="118" y="709" class="rowhead">Service suitability</text><text x="480" y="700" class="cell">Useful when moistness and gentle</text><text x="480" y="729" class="cell">surface change support the purpose.</text><text x="1020" y="700" class="cell">Useful when surface colour and</text><text x="1020" y="729" class="cell">roasted texture support the purpose.</text>
+    <text x="118" y="802" class="rowhead">Relevant constraints</text><text x="480" y="793" class="cell">Available equipment, batch size,</text><text x="480" y="822" class="cell">sequence and teacher direction.</text><text x="1020" y="793" class="cell">Available equipment, batch size,</text><text x="1020" y="822" class="cell">sequence and teacher direction.</text>
+  </g>
+  <g filter="url(#shadow)"><rect x="300" y="878" width="1000" height="76" rx="38" fill="#fff3dc" stroke="#ce9447" stroke-width="3"/><text x="800" y="910" text-anchor="middle" class="note">DECISION TEST: Which predicted effects best fit the stated product purpose?</text><text x="800" y="938" text-anchor="middle" class="cell">Confirm local equipment, procedures and permission with the teacher.</text></g>
+</svg>

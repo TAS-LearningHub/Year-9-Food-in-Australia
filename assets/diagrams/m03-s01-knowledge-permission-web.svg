@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Relationships around responsible use of Cultural Knowledge</title>
+  <desc id="desc">A central responsibility statement is connected to five equal nodes: Knowledge, people and Community, Country and place, permission, and purpose.</desc>
+  <rect width="1600" height="900" rx="36" fill="#fffaf2"/>
+  <text x="80" y="88" font-family="Arial, sans-serif" font-size="49" font-weight="700" fill="#183f3d">Cultural Knowledge sits within relationships</text>
+  <text x="80" y="136" font-family="Arial, sans-serif" font-size="24" fill="#4c625e">Responsible use depends on who, where, why and what permission exists—not just whether information can be found.</text>
+  <g stroke="#6c8e88" stroke-width="8" fill="none">
+    <path d="M800 435L370 295"/><path d="M800 435L1230 295"/><path d="M800 435L310 655"/><path d="M800 435L800 700"/><path d="M800 435L1290 655"/>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <circle cx="800" cy="435" r="170" fill="#183f3d"/>
+    <text x="800" y="390" text-anchor="middle" font-size="26" font-weight="700" fill="#fff">RESPONSIBLE USE OF</text><text x="800" y="432" text-anchor="middle" font-size="31" font-weight="700" fill="#fff">CULTURAL KNOWLEDGE</text><text x="800" y="482" text-anchor="middle" font-size="21" fill="#dceeea">Respect ownership, context</text><text x="800" y="512" text-anchor="middle" font-size="21" fill="#dceeea">and limits on sharing.</text>
+    <g transform="translate(170 200)"><rect width="400" height="190" rx="95" fill="#e6f1ee" stroke="#2b6f68" stroke-width="5"/><text x="200" y="72" text-anchor="middle" font-size="29" font-weight="700" fill="#183f3d">KNOWLEDGE</text><text x="200" y="114" text-anchor="middle" font-size="21" fill="#405653">living, specific and</text><text x="200" y="144" text-anchor="middle" font-size="21" fill="#405653">not automatically public</text></g>
+    <g transform="translate(1030 200)"><rect width="400" height="190" rx="95" fill="#e6eff6" stroke="#4f83a6" stroke-width="5"/><text x="200" y="72" text-anchor="middle" font-size="29" font-weight="700" fill="#264a61">PEOPLE &amp; COMMUNITY</text><text x="200" y="114" text-anchor="middle" font-size="21" fill="#405653">authority and attribution</text><text x="200" y="144" text-anchor="middle" font-size="21" fill="#405653">stay connected to people</text></g>
+    <g transform="translate(105 580)"><rect width="410" height="190" rx="95" fill="#f5ebd1" stroke="#c28b27" stroke-width="5"/><text x="205" y="72" text-anchor="middle" font-size="29" font-weight="700" fill="#604514">COUNTRY &amp; PLACE</text><text x="205" y="114" text-anchor="middle" font-size="21" fill="#405653">context is local;</text><text x="205" y="144" text-anchor="middle" font-size="21" fill="#405653">examples are not universal</text></g>
+    <g transform="translate(600 680)"><rect width="400" height="160" rx="80" fill="#f3e5f6" stroke="#9166a8" stroke-width="5"/><text x="200" y="65" text-anchor="middle" font-size="29" font-weight="700" fill="#573c67">PERMISSION</text><text x="200" y="107" text-anchor="middle" font-size="21" fill="#405653">sharing needs authority</text><text x="200" y="136" text-anchor="middle" font-size="21" fill="#405653">for this use and audience</text></g>
+    <g transform="translate(1085 580)"><rect width="410" height="190" rx="95" fill="#f5e3de" stroke="#a44d39" stroke-width="5"/><text x="205" y="72" text-anchor="middle" font-size="29" font-weight="700" fill="#692e22">PURPOSE</text><text x="205" y="114" text-anchor="middle" font-size="21" fill="#405653">why it is being used</text><text x="205" y="144" text-anchor="middle" font-size="21" fill="#405653">changes what is appropriate</text></g>
+  </g>
+</svg>

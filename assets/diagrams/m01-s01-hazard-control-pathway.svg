@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">From hazard to control decision pathway</title>
+  <desc id="desc">A four-step pathway asks students to identify a hazard, describe possible harm, judge urgency and choose a specific control, with a spill example below.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#2b6f68"/></marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#183f3d" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1600" height="900" rx="36" fill="#fffaf2"/>
+  <text x="80" y="92" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#183f3d">From hazard to control</text>
+  <text x="80" y="142" font-family="Arial, sans-serif" font-size="25" fill="#496460">Make each safety decision specific enough to change the situation.</text>
+  <g font-family="Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(80 225)">
+      <rect width="320" height="270" rx="28" fill="#ffffff" stroke="#cc5b45" stroke-width="5"/>
+      <circle cx="48" cy="52" r="27" fill="#cc5b45"/><text x="48" y="61" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">1</text>
+      <text x="88" y="62" font-size="30" font-weight="700" fill="#612f26">Hazard</text>
+      <text x="34" y="126" font-size="24" fill="#243c39">What is the source</text><text x="34" y="160" font-size="24" fill="#243c39">of possible harm?</text>
+      <rect x="34" y="200" width="252" height="42" rx="21" fill="#f9e3db"/><text x="160" y="228" text-anchor="middle" font-size="20" fill="#612f26">Name the condition</text>
+    </g>
+    <path d="M414 360 H486" stroke="#2b6f68" stroke-width="8" marker-end="url(#arrow)"/>
+    <g transform="translate(500 225)">
+      <rect width="320" height="270" rx="28" fill="#ffffff" stroke="#d49b32" stroke-width="5"/>
+      <circle cx="48" cy="52" r="27" fill="#d49b32"/><text x="48" y="61" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">2</text>
+      <text x="88" y="62" font-size="30" font-weight="700" fill="#604514">Possible harm</text>
+      <text x="34" y="126" font-size="24" fill="#243c39">Who or what could</text><text x="34" y="160" font-size="24" fill="#243c39">be affected?</text>
+      <rect x="34" y="200" width="252" height="42" rx="21" fill="#f8ecd3"/><text x="160" y="228" text-anchor="middle" font-size="20" fill="#604514">Describe the outcome</text>
+    </g>
+    <path d="M834 360 H906" stroke="#2b6f68" stroke-width="8" marker-end="url(#arrow)"/>
+    <g transform="translate(920 225)">
+      <rect width="280" height="270" rx="28" fill="#ffffff" stroke="#4f83a6" stroke-width="5"/>
+      <circle cx="48" cy="52" r="27" fill="#4f83a6"/><text x="48" y="61" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">3</text>
+      <text x="88" y="62" font-size="30" font-weight="700" fill="#264a61">Risk</text>
+      <text x="34" y="126" font-size="24" fill="#243c39">How urgent is</text><text x="34" y="160" font-size="24" fill="#243c39">action?</text>
+      <rect x="34" y="200" width="212" height="42" rx="21" fill="#dfeef5"/><text x="140" y="228" text-anchor="middle" font-size="20" fill="#264a61">Judge, do not score</text>
+    </g>
+    <path d="M1214 360 H1286" stroke="#2b6f68" stroke-width="8" marker-end="url(#arrow)"/>
+    <g transform="translate(1300 225)">
+      <rect width="220" height="270" rx="28" fill="#ffffff" stroke="#2b6f68" stroke-width="5"/>
+      <circle cx="48" cy="52" r="27" fill="#2b6f68"/><text x="48" y="61" text-anchor="middle" font-size="25" font-weight="700" fill="#fff">4</text>
+      <text x="88" y="62" font-size="30" font-weight="700" fill="#183f3d">Control</text>
+      <text x="26" y="126" font-size="23" fill="#243c39">What action</text><text x="26" y="160" font-size="23" fill="#243c39">reduces risk?</text>
+      <rect x="26" y="200" width="168" height="42" rx="21" fill="#dceeea"/><text x="110" y="228" text-anchor="middle" font-size="19" fill="#183f3d">Be specific</text>
+    </g>
+  </g>
+  <g transform="translate(80 585)" font-family="Arial, sans-serif">
+    <rect width="1440" height="210" rx="28" fill="#eaf4f1" stroke="#a8cec7" stroke-width="3"/>
+    <text x="38" y="52" font-size="24" font-weight="700" fill="#183f3d">Example reasoning — a spill in a walkway</text>
+    <text x="38" y="103" font-size="23" fill="#243c39">spill in path</text><text x="285" y="103" font-size="28" fill="#2b6f68">→</text>
+    <text x="340" y="103" font-size="23" fill="#243c39">someone may slip</text><text x="615" y="103" font-size="28" fill="#2b6f68">→</text>
+    <text x="670" y="103" font-size="23" fill="#243c39">act before work continues</text><text x="1010" y="103" font-size="28" fill="#2b6f68">→</text>
+    <text x="1065" y="103" font-size="23" fill="#243c39">keep others clear and</text><text x="1065" y="136" font-size="23" fill="#243c39">follow the approved response</text>
+    <text x="38" y="174" font-size="21" font-weight="700" fill="#8a422f">If equipment is damaged or the procedure is unclear: stop and seek the teacher.</text>
+  </g>
+</svg>
